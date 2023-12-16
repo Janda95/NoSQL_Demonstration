@@ -9,7 +9,7 @@ Work in progress example used a playground for building and understanding the fu
 ### Structure for Request Messages
 COMMAND;[KEY];[VALUE];[VALUE TYPE]
 
-    COMMAND is a command from the list above
+    COMMAND is a command from the dictionary in main.py
 
     KEY is a string to be used as a data store key (optional)
 
